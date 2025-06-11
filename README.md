@@ -16,7 +16,7 @@ Currently building SwiftUI apps while exploring UX and Clean Architecture.
 - 🔥 Firebase
 - 🌐 Node.js / Express
 
-###Other Tools
+## Other Tools
 - 🧪 Jest / Testing Library
 - 🎨 Figma
 - 📦 Git / GitHub
